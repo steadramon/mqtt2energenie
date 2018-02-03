@@ -1,0 +1,7 @@
+{
+    "mqtt_host": "hassio.local",
+    "mqtt_user": "",
+    "mqtt_password": "",
+    "mqtt_id": "mqtt2energenie",
+    "topic_prefix": "switch/"
+}

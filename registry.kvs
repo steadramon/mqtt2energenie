@@ -1,0 +1,3 @@
+ADD front_room
+type=MIHO008
+device_id=[0x6C6C6, 1]
