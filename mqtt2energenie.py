@@ -44,7 +44,6 @@ if __name__ == "__main__":
   client.on_message=on_message #attach function to callback
 
   energenie.init()
-  client.loop_start()
 
   socket_state = False
 
